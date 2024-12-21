@@ -1,1 +1,1 @@
-my first chapter of git
+my first chapter of git turns javaman
